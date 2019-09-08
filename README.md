@@ -3,7 +3,7 @@ The most exciting Toy Robot Simulator ever!
 
 ## Installation
 ```
-pip3 install -r requirements
+pip3 install -r requirements.txt
 ```
 
 ## Usage
