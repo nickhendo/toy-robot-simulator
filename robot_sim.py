@@ -180,7 +180,7 @@ class Robot(object):
 
 
 def print_help():
-    print("""Welcome to the Toy Robot Simulator, brought to you by NewsCorp!
+    print("""Welcome to the Toy Robot Simulator!
 This revolutionary new game allows you to control a virtual toy robot on a 5x5 grid. The accepted commands are:
       - PLACE X,Y,F     (Place the robot in position (X, Y) facing F (North, East, South or West)
       - MOVE            (Move the robot forward on the grid by one space)
